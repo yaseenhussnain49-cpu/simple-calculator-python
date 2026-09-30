@@ -56,11 +56,9 @@ A Python 3.x version should be displayed.
 
 Clone the repository using:
 
-git clone <repository-url>
-
+ git clone https://github.com/yaseenhussnain49-cpu/simple-calculator-python.git
 Then move into the project directory:
-
-cd <project-folder>
+cd simple-calculator-python
 
 Alternatively, the repository can be downloaded as a ZIP file and extracted.
 
